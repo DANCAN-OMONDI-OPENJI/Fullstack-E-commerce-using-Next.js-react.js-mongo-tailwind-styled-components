@@ -11,7 +11,7 @@
 # next.js
 /.next/
 /out/
-
+MONGODB_URI_PASSWORD=5ClZ8PITVLYqokqH
 # production
 /build
 
